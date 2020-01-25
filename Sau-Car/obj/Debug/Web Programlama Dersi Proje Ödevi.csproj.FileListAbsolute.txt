@@ -1,0 +1,112 @@
+c:\users\emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\bin\ApplicationInsights.config
+c:\users\emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\bin\roslyn\csc.exe
+c:\users\emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\bin\roslyn\System.Collections.Immutable.dll
+c:\users\emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\bin\roslyn\vbc.exe
+c:\users\emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\bin\roslyn\VBCSCompiler.exe
+c:\users\emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\bin\roslyn\VBCSCompiler.exe.config
+c:\users\emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\bin\Web Programlama Dersi Proje Ödevi.dll.config
+c:\users\emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\bin\Web Programlama Dersi Proje Ödevi.dll
+c:\users\emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\bin\Web Programlama Dersi Proje Ödevi.pdb
+c:\users\emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\bin\Microsoft.AI.Web.dll
+c:\users\emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\bin\Microsoft.AI.WindowsServer.dll
+c:\users\emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\bin\Microsoft.ApplicationInsights.dll
+c:\users\emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\bin\Microsoft.Web.Infrastructure.dll
+c:\users\emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\bin\System.Web.Helpers.dll
+c:\users\emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\bin\System.Web.Mvc.dll
+c:\users\emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\bin\System.Web.Razor.dll
+c:\users\emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\bin\System.Web.Webpages.Deployment.dll
+c:\users\emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\bin\System.Web.Webpages.dll
+c:\users\emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\bin\System.Web.Webpages.Razor.dll
+c:\users\emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\bin\Microsoft.AI.Web.xml
+c:\users\emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\bin\Microsoft.AI.WindowsServer.xml
+c:\users\emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\bin\Microsoft.ApplicationInsights.xml
+c:\users\emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\bin\System.Web.Razor.xml
+c:\users\emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\bin\System.Web.Webpages.xml
+c:\users\emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\bin\System.Web.Webpages.Deployment.xml
+c:\users\emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\bin\System.Web.Webpages.Razor.xml
+c:\users\emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\bin\System.Web.Helpers.xml
+c:\users\emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\bin\System.Web.Mvc.xml
+c:\users\emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\obj\Debug\Web Programlama Dersi Proje Ödevi.dll
+c:\users\emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\obj\Debug\Web Programlama Dersi Proje Ödevi.pdb
+C:\Users\Emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\bin\EntityFramework.dll
+C:\Users\Emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\bin\EntityFramework.SqlServer.dll
+C:\Users\Emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\bin\EntityFramework.xml
+C:\Users\Emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\bin\EntityFramework.SqlServer.xml
+C:\Users\Emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\obj\Debug\Web_Programlama_Dersi_Proje_Ödevi.Resources.hometext.resources
+C:\Users\Emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\obj\Debug\Web Programlama Dersi Proje Ödevi.csproj.GenerateResource.Cache
+C:\Users\Emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\bin\en\Web Programlama Dersi Proje Ödevi.resources.dll
+C:\Users\Emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\obj\Debug\Web_Programlama_Dersi_Proje_Ödevi.Resources.hometext.en.resources
+C:\Users\Emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\obj\Debug\en\Web Programlama Dersi Proje Ödevi.resources.dll
+C:\Users\Emrullah\documents\visual studio 2015\Projects\Web Programlama Dersi Proje Ödevi\obj\Debug\Web Programlama Dersi Proje Ödevi.csprojResolveAssemblyReference.cache
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\bin\ApplicationInsights.config
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\bin\roslyn\csc.exe
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\bin\roslyn\vbc.exe
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\bin\roslyn\VBCSCompiler.exe
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\bin\Web Programlama Dersi Proje Ödevi.dll.config
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\bin\Web Programlama Dersi Proje Ödevi.dll
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\bin\Web Programlama Dersi Proje Ödevi.pdb
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\bin\en\Web Programlama Dersi Proje Ödevi.resources.dll
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\bin\EntityFramework.dll
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\bin\EntityFramework.SqlServer.dll
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\bin\Microsoft.AI.Web.dll
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\bin\System.Web.Helpers.dll
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\bin\System.Web.Mvc.dll
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\bin\System.Web.Razor.dll
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\bin\System.Web.Webpages.Deployment.dll
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\bin\System.Web.Webpages.dll
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\bin\System.Web.Webpages.Razor.dll
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\bin\EntityFramework.xml
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\bin\EntityFramework.SqlServer.xml
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\bin\Microsoft.AI.Web.xml
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\bin\System.Web.Razor.xml
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\bin\System.Web.Webpages.xml
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\bin\System.Web.Webpages.Deployment.xml
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\bin\System.Web.Webpages.Razor.xml
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\bin\System.Web.Helpers.xml
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\bin\System.Web.Mvc.xml
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\obj\Debug\Web Programlama Dersi Proje Ödevi.csprojAssemblyReference.cache
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\obj\Debug\Web_Programlama_Dersi_Proje_Ödevi.Resources.hometext.resources
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\obj\Debug\Web_Programlama_Dersi_Proje_Ödevi.Resources.hometext.en.resources
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\obj\Debug\Web Programlama Dersi Proje Ödevi.csproj.GenerateResource.cache
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\obj\Debug\Web Programlama Dersi Proje Ödevi.csproj.CoreCompileInputs.cache
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\obj\Debug\en\Web Programlama Dersi Proje Ödevi.resources.dll
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\obj\Debug\Web Programlama Dersi Proje Ödevi.csproj.CopyComplete
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\obj\Debug\Web Programlama Dersi Proje Ödevi.dll
+C:\Users\karak\Documents\Visual Studio 2019\Projects\Web Programlama Dersi Proje Ödevi\obj\Debug\Web Programlama Dersi Proje Ödevi.pdb
